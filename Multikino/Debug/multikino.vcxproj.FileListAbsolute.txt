@@ -1,0 +1,17 @@
+C:\Users\kajik\source\repos\multikino\Debug\multikino.exe
+C:\Users\kajik\source\repos\multikino\Debug\multikino.pdb
+C:\Users\Oem\Desktop\multikino\multikino\Debug\multikino.exe
+C:\Users\Oem\Desktop\multikino\multikino\Debug\multikino.pdb
+C:\Users\kajik\Desktop\multikino-20201128T094727Z-001\multikino\Debug\multikino.exe
+C:\Users\kajik\Desktop\multikino-20201128T094727Z-001\multikino\Debug\multikino.pdb
+C:\Users\Oem\Downloads\multikino-20201128T094727Z-001-20201128T121132Z-001\multikino-20201128T094727Z-001\multikino\Debug\multikino.exe
+C:\Users\Oem\Downloads\multikino-20201128T094727Z-001-20201128T121132Z-001\multikino-20201128T094727Z-001\multikino\Debug\multikino.pdb
+C:\Users\Oem\Downloads\multikino11\multikino-luijkgkiu\multikino-20201128T094727Z-001\multikino\Debug\multikino.exe
+C:\Users\Oem\Downloads\multikino11\multikino-luijkgkiu\multikino-20201128T094727Z-001\multikino\Debug\multikino.pdb
+C:\Users\Oem\Desktop\multikino12\multikino-luijkgkiu\multikino-20201128T094727Z-001\multikino\Debug\multikino.exe
+C:\Users\Oem\Desktop\multikino12\multikino-luijkgkiu\multikino-20201128T094727Z-001\multikino\Debug\multikino.pdb
+C:\Users\kajik\Desktop\multikino\Debug\multikino.exe
+C:\Users\kajik\Desktop\multikino\Debug\multikino.pdb
+C:\Users\Oem\Desktop\multikino\Debug\multikino.exe
+C:\Users\Oem\Desktop\multikino\Debug\multikino.pdb
+C:\Users\Oem\OneDrive - Vysoké učení technické v Brně\škola\VŠ\1. ročník\1. semestr\PC1T\Projekt\Multikino\Debug\multikino.exe

@@ -1,0 +1,6 @@
+﻿  func.cpp
+C:\Users\Oem\OneDrive - Vysoké učení technické v Brně\škola\VŠ\1. ročník\1. semestr\PC1T\Projekt\Multikino\func.cpp(88,12): warning C4244: argument: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+  multikino.cpp
+C:\Users\Oem\OneDrive - Vysoké učení technické v Brně\škola\VŠ\1. ročník\1. semestr\PC1T\Projekt\Multikino\multikino.cpp(157,10): warning C4477: printf: Formátovací řetězec %d vyžaduje argument typu int, ale variadický argument 1 má typ char *.
+  Generování kódu...
+  multikino.vcxproj -> C:\Users\Oem\OneDrive - Vysoké učení technické v Brně\škola\VŠ\1. ročník\1. semestr\PC1T\Projekt\Multikino\Debug\multikino.exe
